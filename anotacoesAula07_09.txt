@@ -1,0 +1,56 @@
+Algoritmo é uma sequência de ações com um determinado algoritmo
+console.log() ('printf')
+comentário = // ou /* */
+executar 'node <nome do arquivo>.js no terminal
+var é um modo de declarar uma variável
+let declara uma variável que só é de um bloco ({}), não podendo ser acessada fora do bloco
+; define quando acaba uma 'linha"
+
+OBS: sempre comentar os códigos
+
+Site de exercícios:
+  -> Beecrowed
+  -> Code Forces
+  -> CD Moj
+  -> Hacker Rank
+
+
+-> Programação Sequencial = sequência
+-> Programação Estruturada = blocos
+-> Programação Orienta a Objetos (OO) = blocos mais complexos
+
+Blocos são definidos por {}
+
+O que define uma variável global, local, e sua tipagem é a foma como você "declara ela"
+
+var = global
+let = local
+const = constante (imutável)(tem sua função melhor utilizada no react)
+
+
+-> Tipos Primitivos:
+
+  -> numérico: números
+  -> string: cadeira de caracteres
+  -> boolean: true or false
+  -> qualquer: quando você não especifica o tipo da variável
+
+
+Exemplos explicativos:
+
+var hihi = true; (tipo booleano) //ou false
+var hehe = 'hehheeheh'; (string)
+const i = 10; (constante)
+var ihihihi; (qualquer)
+var hehhehehe = 10; (numerico)
+
+
+Compilador = avlia o código e executa somente se o código todo estiver correto
+Interpretador = avalia até dar certo
+
+
+Para imprimir o tipo da variável: console.log(typeof('nome da variável));
+
+Função:
+
+  function <nome> (parâmetro externo) {}

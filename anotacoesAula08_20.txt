@@ -1,0 +1,20 @@
+referência cruzada (pesquisar sobre)
+estudar sobre a última aula
+
+
+
+Laços de repetição:
+  if {true} or {false}
+  for () {false}, o for é para quando você sabe quantas ações vai se repetir
+  while(), para quando você não sabe quantas vezes se loop irá se repetir (testa e executa/ou não)
+  do...while, testa antes de executar a operação (executa e testa)
+
+
+
+  Estrutura:
+  for (<variáavel que contém o número inicial de repetições (let x = 1)>;<condição de parada (x =< 5)>;<incremento ou decremento>){
+    console.log("X");
+    x = x+1;
+  }
+
+OBS: não criar/definir variáveis dentro do loop

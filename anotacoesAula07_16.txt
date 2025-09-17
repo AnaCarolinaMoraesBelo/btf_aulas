@@ -1,0 +1,8 @@
+. significa onde eu estou
+.. significa voltar para um anterior
+
+A diferença entre '==' e '===' no JavaScript é que o '==' é uma igualdade solta e '===' é uma igualdade estrita
+
+  A igualdade solta compara os valores após converter ambos os operandos para um tipo comum. Por exemplo, 5 == "5" retornaria true porque a string "5" seria convertida para o número 5 antes da comparação. Isso pode levar a resultados inesperados se não houver cuidado.
+
+  A igualdade estrita compara os valores e tipos dos operandos. Não realiza conversão de tipo. Se os tipos forem diferentes, a comparação sempre retornará false. 5 === "5" retornaria false porque um é um número e o outro é uma string. 

@@ -1,0 +1,9 @@
+git pull -> puxa do repositório remoto para o local, para atualizar o repositório local
+git status -> Verifica a branch atual
+git add . -> Prepara todos os arquivos (.), para serem enviados
+git commit -m "mensagem" -> adiciona a mensagem do commit (obrigatório)
+git push origin main -> não sei o porque mas é assim que funciona
+
+Repositório Local
+Repositório remoto 
+Branch -> é a ramificação do repositório original, para commitar de outras branchs é outro passo a passo de codigos

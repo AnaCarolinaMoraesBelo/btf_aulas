@@ -1,0 +1,17 @@
+Programação Sequencial         -> Modularizando
+OBS: aumentar desempenho
+Paradigma de orientação a objetos = utilizar vários produtos menores para criar um produto final com melhor qualidade, eficiência e desempenho (lembrando muito das empresas nos dias atuais, por exemplo, um computador é um produto final a partir de produtos menores como cabos, processador, memória, etc. e as empresas criam um computador a partir da produção de outras empresas)  (Reuso de software) 
+Prime React = site para a reutilização de códigos
+Componente é um código que sites disponibilizam para que você reutilize e utilize em seu código
+Funções geram novas informações
+Classe - Estrutura que eu quero respresentar
+As estruturas tem características e funcionalidades
+  -> Dentro das classes há os atributos (características/propriedades)
+  -> Métodos (ações ou funcionalidades)
+Objeto é uma instância daquela classe
+
+Orientação a Objetos é a definição de estruturas
+
+
+
+Há uma função para retirar as casas decimais e só deixar o número inteiro

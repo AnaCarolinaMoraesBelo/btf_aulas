@@ -1,0 +1,42 @@
+Encapsulamento (orientação a objetos)
+  ->proteção de dados (atributos)
+
+OO
+-> Desempenho > Reuso
+-> Qualidade  > Reuso
+  -> Encapsulamento
+
+Proteção é referente ao dado ter um valor inadequado para o contexto. Ex: a idade não pode ser -2, logo teria que ser feito um filtro para que não possa números x <= 0. Ex: aluno da educação infantil não pode aceitar pessoas com 20 anos, logo, nesse contexto teria que ser mais ou menos x<=0 && x>= 10
+
+Não instanciar um objeto no mesmo arquivo em que foi criado a classe
+
+'+' = público
+'-' = privado
+'#' = protegido
+
+set = método para atribuir um valor à variável protegida
+get = método para ver um valor à variável protegida
+
+
+ex: const PessoaAula21_07 = require('./PessoaAula21_07.js'); -> não é necessário utilizar o .js no final, porém é bom utilizar mesmo assim
+
+Encapsulamento (orientação a objetos)
+  ->proteção de dados (atributos)
+Planejar Objetos (Projeto Orientado a Objetos)
+  -> UML
+
+Planejar com o UML primeiro e depois ir programar
+utilizar sites para criar o UML
+
+UML = planejamneto para depois 
+
+a parte de EDA vai ser sobre UML
+
+OBS: tentar fazer a foto de UMl que eu tirei
+
+uma classe tem: o nome da classe, os atributos e seus métodos
+
+
+assinatura do método = nome do método, parâmetro esperado, como vai ser o retorno do método (é definido em um projeto)
+corpo do método = é o que vai ser desenvolvido dentro do médoto (não é definido em um projeto)
+

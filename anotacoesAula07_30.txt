@@ -1,0 +1,33 @@
+if (<nome da variável>) é usado para verificar se há valor, ou seja, se ela é indefined/vazia ou não. Lembrando que ela não vai verificar se a tipagem é adequada para o que você deseja, para isso é necessário que você faça uma verificação mais adequada/específica
+
+super classe = classe pai
+sub classe = classe filho
+
+  Em relação a herança, a classe filho só herda os atributos públicos da classe pai
+  
+Herança encadeada = junção de atributos generalizadas
+Herança multipla = onde há várias classes que são herdadas de uma única classe. A maioria das linguagens não suporta, somente a linguagem C (não vamos ver em aula)
+
+sobrescrever = além de herdar, pode redefinir o método (melhorando o detalhamento do método)
+
+Operadores de comparação:
+  <   : menor que
+  >   : maior que
+  <=  : menor ou igual que
+  >=  : maior ou igual que
+
+
+Operadores de comparação:,
+  ==   : igualdade frouxa
+  ===  : igualdade estrita
+  !=   : diferença frouxa
+  !==  : diferença estrita
+
+
+A diferença entre '==' e '===' no JavaScript é que o '==' é uma igualdade solta e '===' é uma igualdade estrita
+
+  A igualdade solta compara os valores após converter ambos os operandos para um tipo comum. Por exemplo, 5 == "5" retornaria true porque a string "5" seria convertida para o número 5 antes da comparação. Isso pode levar a resultados inesperados se não houver cuidado.
+
+  A igualdade estrita compara os valores e tipos dos operandos. Não realiza conversão de tipo. Se os tipos forem diferentes, a comparação sempre retornará false. 5 === "5" retornaria false porque um é um número e o outro é uma string. 
+
+DICA: utilizar prioritariamente a igualdade estrita (===)

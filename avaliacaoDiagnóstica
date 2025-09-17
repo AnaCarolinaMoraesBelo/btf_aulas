@@ -1,0 +1,17 @@
+Os códigos 1,2 e 3 apresentam erros que devem ser corrigidos para a execução adequada do código 4. Assim, realize a seguinte ações:
+
+
+
+A. Identifique a linha onde se encontra o erro, justifique o erro, bem como apresente a solução para corrigir o erro (demonstrando o código JavaScript necessário). Dica : são 6 erros.
+Ex : Erro 1 - na linha 1 do código 1;
+Justificativa 1 - Variável x não declarada;
+Correção 1 : var x;
+
+ No código 1, aparece isso na linha 21: getEmail() { return this.email;}
+
+
+
+
+B. Após corrigir os problemas para execução adequada do código 4, apresente o resultado da execução (simulada) do mesmo.
+Ex : true
+Valor de x é : 10

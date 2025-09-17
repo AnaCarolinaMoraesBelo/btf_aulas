@@ -1,0 +1,21 @@
+Versionamento de código (git)
+Repositório controlado
+
+Stackblitz (online)= ambiente de desenvolvimento
+repl.it = dar uma olhda depois
+npm trends = site de comparação de estatísticas de reacts mais baixados
+
+JavaScript = linguagem
+Node.js = ambiente de executação
+npm = gerenciador de pacotes
+
+OBS: baixar o GitHub, VSCode quando chegar em casa
+
+Legado = "algo intocável" sendo uma linguagem que ainda não morreu e vai continuar existindo
+
+-> site estático (HTML)
+  Sites são baseados no HTML(Formatação/resultado visual)
+
+-> sites dinâmicos
+  -> informação: php, aip, jsp
+  -> interação: script -> JavaScript

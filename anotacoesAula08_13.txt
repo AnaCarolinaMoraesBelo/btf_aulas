@@ -1,0 +1,33 @@
+relacionamentos:
+  - Herança;
+  - Relacionamento Simples;
+
+Relação unilateral e bilateral entre as classes.
+
+mer = modelo entidade relacionamento
+
+simbologia da uml | (somente traço), signidfica que uma classe tem que conter algo dentro dela para especificar a outra classe na qual ela está relacionada (|)
+
+
+1 = um
+N (*) = vários
+não há meio termo, por exemplo, uma pessoa tem 1 (um) endereço, uma pessoa pode ter 1 (um) ou mais telefones, logo uma pessoa pode ter N(*) telefones.
+
+
+array(vetor) = tipo heterogênio
+o array no js pode colocar qualquer tipo dentro de um array, ex: [ 0 , "oi" , true , 3].
+
+
+var frutas = []; //Objeto array - possui atributos e métodos
+frutas.push('maçã'); //push = adicionar ao final
+frutas.push('morango');
+frutas.unshift('uva'); //unshift = adiciona ao começo
+frutas.push('banana');
+frutas.splice(0, 1); //retira a quantidade de arrays a partir do índice, sendo : (<índice >, <quantia a partir da posição>)
+frutas.splice(0, 0, "acerola"); //consegue adicionar, possibilidando adicionar mais de um
+frutas.pop(); //remove o último
+frutas.shift(); //remove do início
+console.log(frutas); //conteúdo do array
+console.log(frutas.length); //imprimi o tamanho do array
+
+o método sort ordena o vetor, porém é recomendado que se utilize esse método somente quando o vetor for de um tipo só

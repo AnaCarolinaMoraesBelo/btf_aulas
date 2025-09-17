@@ -1,0 +1,15 @@
+ESM = Ecma Script Modules (react)
+CJS = Common JS (nós usamos até agr nos códigos base do javscript, porém não funciona de forma correta no react)
+
+
+
+como estamos nos transitando para o  react, vai ocorrer algumas alterações, como por exemplo:
+
+module.exports -----> exports (...) from
+
+desestruturação = é importar somente o que lhe interessa. ex: arrays, classes, etc (OBS: não é obrigatório importar todas as funções
+
+const iejson = JSON.stringify => pega o objeto e transforma em string para continuar a manipular (ou até mesmo para armazenar em um lugar específico) 
+e JSON.parse é para o processo inverso, de pegar o formato string e transformar em objeto
+
+OBS: o stringify não consegue acessar dados privados, logo nos exemplos de aula não vai ser possível

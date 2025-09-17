@@ -1,0 +1,18 @@
+Encapsulamento
+  -> Estrutural (atributos privados e metodos públicos)
+  -> Filtragem (condicional)
+
+OBS: sempre tentar fazer filtragens quanto ao valor, para verificar se o valor é adequado à variável
+OBS: tentar utilizar os comandos do VSCode (pesquisar, ex: Ctrl + D; Ctrl + B; etc)
+
+Condicionais (dependendo de um true ou um false, é 'redirecionado' para um outro caminho)
+
+Condicional:
+if (<condição>){
+  < true - verdadeiro>
+}
+else {
+  < false -falso >
+}
+
+se eu quisesse ver que não tem valor é só colocar (!email)
