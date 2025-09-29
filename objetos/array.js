@@ -31,3 +31,13 @@ console.log(frutas); //conteúdo do array
 console.log(frutas.length); //imprimi o tamanho do array
 
 //Desafio: Criar um Array de Objetos "Aluno" (com no mínimo 3 objetos), bem como demonstrar a manipulação de tal Array de Objetos
+
+
+// 07: Forma 6: Array com tipos uniformes (booleans)
+let status = [true, false, true, true];
+console.log('status:', status);
+console.log('Status:', status[3]);
+
+// 08: Forma 7: Array com strings (nomes de cursos)
+let cursos = ['ADS', 'SI', 'Engenharia', 'Jogos'];
+console.log('cursos:', cursos);
